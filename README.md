@@ -8,7 +8,6 @@
 
 ## Credits:
 - Icons credits from www.flaticon.com.
-- 
 ## License
 
 	The MIT License (MIT)
