@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="str_tools">Tools</string>
+    <string name="str_friends">Friends</string>
+    <string name="str_set_loan">Set Loan</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="title_activity_friend_details">FriendDetailsActivity</string>
+    <string name="str_ok">OK</string>
+    <string name="str_total">%d Total</string>
+    <string name="str_borrowed">%d borrowed</string>
+    <string name="str_tool_name">Tool Loan</string>
+</resources>
