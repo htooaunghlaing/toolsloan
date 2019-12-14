@@ -1,5 +1,3 @@
-# Popular Movies App
-
 `A Room Database App` for demo
 
 ## Libraries:
